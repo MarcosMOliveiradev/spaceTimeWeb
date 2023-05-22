@@ -10,7 +10,7 @@
 
 </br>
 
-<p>
+<p align="center">
     <img alt="License" src=".github/spacetime.png" width="100%">
 </p>
 
