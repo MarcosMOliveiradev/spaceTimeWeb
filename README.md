@@ -11,7 +11,7 @@
 </br>
 
 <p>
-    <img alt="License" src=".github/spacetime.png" width="100%">
+    <img alt="License" src=".github/spacetime.jpeg" width="100%">
 </p>
 
 
